@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kreker1207
-- 👀 I’m interested in investing small projects 
+- 👀 I’m interested in backend development.
+- Have been practicing in Java with Spring framework for creating web applications 
 - 🌱 I’m currently learning in my university C/C++ and Java, Full-Stack web(HTML,CSS,JS,Node.js,SQL) . Additionally by myself learning C#, python
 - 💞️ I’m looking to collaborate on everything  to improve  my skills 
 - 📫 How to reach me Telegram @kreker1207
