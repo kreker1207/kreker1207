@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kreker1207
-- 🌱 I’m currently working as Java backend developer.
 - 💞️ I’m looking to collaborate on everything  to improve  my skills 
 - 📫 How to reach me Telegram @kreker1207
 
